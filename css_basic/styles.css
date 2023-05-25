@@ -1,0 +1,54 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+  
+article {
+    flex: 2;
+    overflow-y: auto;
+    align-items: center;
+    width: 300px;
+    height:500px;
+    display:block;
+    border-top-style: inset;
+    border-bottom-style: inset;
+    float:left;
+    line-height: 13px;
+    text-indent: 2px;
+    text-align: left;
+    ;
+    
+    
+    
+}
+  
+aside {
+    flex: 1;
+    overflow-y: auto;
+    align-items: baseline;
+    width: 150px;
+    height: 150px;
+    border-top-style: inset;
+    border-spacing: 1000px;
+    
+    
+}
+.up{
+  height:30px;
+  align-items: baseline;
+  border-top-style: inset;
+  border-bottom-style: inset;
+}
+.down{
+  height: 30px;
+  border-top-style: inset;
+  border-bottom-style: inset;
+}
+  
