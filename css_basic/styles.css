@@ -14,8 +14,7 @@ article {
     flex: 2;
     overflow-y: auto;
     align-items: center;
-    width: 300px;
-    height:500px;
+    width: 960px;
     display:block;
     border-top-style: inset;
     border-bottom-style: inset;
@@ -23,7 +22,7 @@ article {
     line-height: 13px;
     text-indent: 2px;
     text-align: left;
-    ;
+    background-color: cornflowerblue;
     
     
     
@@ -33,10 +32,10 @@ aside {
     flex: 1;
     overflow-y: auto;
     align-items: baseline;
-    width: 150px;
-    height: 150px;
+    width: 480px;
     border-top-style: inset;
     border-spacing: 1000px;
+    background-color: blueviolet;
     
     
 }
@@ -45,10 +44,12 @@ aside {
   align-items: baseline;
   border-top-style: inset;
   border-bottom-style: inset;
+  background-color: gray;
+  text-align: justify;
 }
 .down{
   height: 30px;
   border-top-style: inset;
   border-bottom-style: inset;
+  background-color: grey;
 }
-  
