@@ -1,0 +1,1 @@
+This project is based on html advanced .It focus on the CSS and the style of the page.Throughout this project we are going to use different style to an element either inline or external style by using selectors.Box properities are also used for making our page look nice and attractive.
